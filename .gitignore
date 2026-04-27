@@ -1,0 +1,12 @@
+# Python virtual environments
+.venv/
+venv/
+.env
+bin/
+pyvenv.cfg
+*.env
+/TFM/Schedule
+*.cfg
+/lib
+#/lib64
+/include
