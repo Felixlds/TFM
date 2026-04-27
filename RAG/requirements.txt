@@ -1,0 +1,13 @@
+numpy
+faiss-cpu
+sentence-transformers
+openai
+ollama
+langchain
+langchain-community
+langchain-huggingface
+bs4
+html2text
+lxml
+python-dotenv
+requests
