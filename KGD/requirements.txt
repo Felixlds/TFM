@@ -1,0 +1,7 @@
+neo4j
+neo4j-graphrag
+ollama
+dotenv
+langchain-huggingface
+sentence-transformers
+langchain_community
