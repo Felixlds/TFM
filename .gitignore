@@ -11,3 +11,4 @@ bin/
 **/lib64
 **/include
 RAG/Assets
+GraphRAG/share/
