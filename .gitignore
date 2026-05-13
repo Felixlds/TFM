@@ -3,11 +3,11 @@
 venv/
 .env
 bin/
-pyvenv.cfg
+**/pyvenv.cfg
 *.env
 /TFM/Schedule
 *.cfg
-/lib
-#/lib64
-/include
-/Assets
+**/lib
+**/lib64
+**/include
+RAG/Assets
